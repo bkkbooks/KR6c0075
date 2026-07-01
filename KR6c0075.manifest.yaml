@@ -1,0 +1,305 @@
+canonical_identifier: bkk:krp/KR6c0075/v1
+canonical_location: https://kanripo.org/bkk/KR6c0075/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛新眼疏經偈合釋
+  identifiers:
+    alt_id:
+    - X25n0487
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X25/X25n0487.xml
+    old_id: X25n0487
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0075_000.yaml, hash: 'sha256:55250a8b53b144be3de4a875a0244778fac617d90b31a568ab626cbac5fc538b'}
+  - {seq: 1, filename: KR6c0075_001.yaml, hash: 'sha256:d75810ade5155ecef1b5d7db41fbffa223eee4339fdee6cfffced8a0546d4748'}
+  - {seq: 2, filename: KR6c0075_002.yaml, hash: 'sha256:9cf8026ca35e30e7f007e0c82138f8ea6c9d7c83545d4a2aae6baa95ee3d4110'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0075_000.markers.yaml, hash: 'sha256:1afe9f38c0cf46d9d712317048138f163cf0c0a2c516d762439547c96e1226a0'}
+  - {seq: 1, role: markers, filename: assets/KR6c0075_001.markers.yaml, hash: 'sha256:98a29810d0f28b88b5f5fb5ab230572ca5738aa5004dcf597fc32f90cf1dd749'}
+  - {seq: 2, role: markers, filename: assets/KR6c0075_002.markers.yaml, hash: 'sha256:7c037ce9f6dc2811cd716c75e68c85742ee48711ebbf85eedaccb7e31bf8b470'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 金剛般若經偈會本敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-2
+    span:
+    - front
+    - 394
+    - 394
+  label: No. 487-1 金剛般若經偈會本
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-3
+    span:
+    - front
+    - 7143
+    - 7143
+  label: No. 487-2 金剛新眼疏經偈合釋通敘大意
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-4
+    span:
+    - front
+    - 11214
+    - 11214
+  label: No. 487-3 金剛新眼疏經偈合釋懸示
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-5
+    span:
+    - front
+    - 11241
+    - 11241
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-6
+    span:
+    - front
+    - 11338
+    - 11338
+  label: 一翻譯前後
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-7
+    span:
+    - front
+    - 11380
+    - 11380
+  label: 一姚秦鳩摩羅什譯
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-8
+    span:
+    - front
+    - 12206
+    - 12206
+  label: 二元魏菩提留支譯
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-9
+    span:
+    - front
+    - 12866
+    - 12866
+  label: 三陳朝真諦譯
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-10
+    span:
+    - front
+    - 13586
+    - 13586
+  label: 四隋朝笈多譯
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-11
+    span:
+    - front
+    - 14094
+    - 14094
+  label: 五唐玄奘法師譯
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-12
+    span:
+    - front
+    - 14801
+    - 14801
+  label: 六唐義淨法師譯
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-13
+    span:
+    - front
+    - 15399
+    - 15399
+  label: 二宣說時處
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-14
+    span:
+    - front
+    - 15435
+    - 15435
+  label: 第一日出先照時
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-15
+    span:
+    - front
+    - 15499
+    - 15499
+  label: 第二日昇轉照時
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-16
+    span:
+    - front
+    - 15752
+    - 15752
+  label: 第三日沒還照時
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-17
+    span:
+    - front
+    - 15991
+    - 15991
+  label: 三教乘攝屬
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-18
+    span:
+    - front
+    - 17054
+    - 17054
+  label: 四因緣所為
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0075_X_000-mulu-19
+    span:
+    - front
+    - 18823
+    - 18823
+  label: 五受持感通
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0075_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 18892
+  label: 金剛新眼疏經偈合釋卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0075_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 六釋題解文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0075_X_001-mulu-2
+    span:
+    - body
+    - 25
+    - 25
+  label: 一總釋名題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0075_X_001-mulu-3
+    span:
+    - body
+    - 1853
+    - 1853
+  label: 二別解文義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0075_X_001-mulu-4
+    span:
+    - body
+    - 1912
+    - 1912
+  label: 一序分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0075_X_001-mulu-5
+    span:
+    - body
+    - 6016
+    - 6016
+  label: 二正宗分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0075_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 34802
+  label: 金剛新眼疏經偈合釋卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0075_X_002-mulu-1
+    span:
+    - body
+    - 34457
+    - 34457
+  label: 三流通分
+  type: mulu
+  level: 1
+hash: sha256:1958af625f2f6f39e0bad40dc10747f96c819d5d4bbcc002e6f37bbb905d8766
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
