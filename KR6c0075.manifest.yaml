@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6c0075/v1
 canonical_location: https://kanripo.org/bkk/KR6c0075/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛新眼疏經偈合釋
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0075_000.yaml, hash: 'sha256:b766f80a98bf910108968b32bb4891bbf268f6fbd1ac2e861c13c44c7998d0c3'}
-  - {seq: 1, filename: KR6c0075_001.yaml, hash: 'sha256:7fbf2741b9d9b7a70aec58ab63be4889f3133e5f718204bca37bf26ce75174f0'}
-  - {seq: 2, filename: KR6c0075_002.yaml, hash: 'sha256:9a1dc9d1b40741e0453c2cfe90fd3b31680d5dbf3d97d30527e46cb559eb47d2'}
+  - {seq: 0, filename: KR6c0075_000.yaml, hash: 'sha256:fdc87fff38385d7289ed877fbf3df19e8307c1ba55ed97787d94a32433cb25e8'}
+  - {seq: 1, filename: KR6c0075_001.yaml, hash: 'sha256:198114955b216a71a0cf9752a81b862301ef6f8dce13eaadf82681d28c292636'}
+  - {seq: 2, filename: KR6c0075_002.yaml, hash: 'sha256:90dff58376ae813edf358fc5436c64e09eea486b3e753ac212d7c118d09d5b5c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0075_000.markers.yaml, hash: 'sha256:464b5d64bc73a5ff8b96771109dacc21c1a958532dcff324b775b23de2cb0d32'}
-  - {seq: 1, role: markers, filename: assets/KR6c0075_001.markers.yaml, hash: 'sha256:08dcc84763105ae87d91f515af627bd018a4bfe5346acb8d4ebbbc6e86975a59'}
-  - {seq: 2, role: markers, filename: assets/KR6c0075_002.markers.yaml, hash: 'sha256:1ddf668ee69e294fab0bd590a918a8152f2c536142c089d30119308127e5d64c'}
+  - {seq: 0, role: markers, filename: assets/KR6c0075_000.markers.yaml, hash: 'sha256:0e71bbe1c7982eb281cee0a584aa1612c69db4c98fed5823fdea2cd66b954542'}
+  - {seq: 1, role: markers, filename: assets/KR6c0075_001.markers.yaml, hash: 'sha256:a8e972eb322642790eda7939e0e258f65c83a5c0c5ec2de8467de31d7bbf655f'}
+  - {seq: 2, role: markers, filename: assets/KR6c0075_002.markers.yaml, hash: 'sha256:f8acd9935b7318fd33849918bc2bfdd6fe2e49e91d9f1521a32278edacc969ca'}
 table_of_contents:
 - ref:
     seq: 0
@@ -299,4 +299,7 @@ table_of_contents:
   label: 三流通分
   type: mulu
   level: 1
-hash: sha256:09edbd2afa77d1bc0ac731914a5e6e1be41f6589338421a1a6b560ee40823d8e
+hash: sha256:d7491a6c3c409335863946b5ee6181711e99799b6ea1ecd9ed2570a97428cf99
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
