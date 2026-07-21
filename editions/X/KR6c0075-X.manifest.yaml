@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0075_000-X.yaml, hash: 'sha256:b766f80a98bf910108968b32bb4891bbf268f6fbd1ac2e861c13c44c7998d0c3'}
+  - {seq: 0, filename: KR6c0075_000-X.yaml, hash: 'sha256:226eaeab42a70c444164e7c4fb69821472a35c14c4dcb6ac993c5a66bb2430d9'}
   - {seq: 1, filename: KR6c0075_001-X.yaml, hash: 'sha256:7fbf2741b9d9b7a70aec58ab63be4889f3133e5f718204bca37bf26ce75174f0'}
   - {seq: 2, filename: KR6c0075_002-X.yaml, hash: 'sha256:9a1dc9d1b40741e0453c2cfe90fd3b31680d5dbf3d97d30527e46cb559eb47d2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0075_000-X.markers.yaml, hash: 'sha256:0f5d089819d896912058337dd36daf8af90fbe5731dde1d8bd49c94759109940'}
+  - {seq: 0, role: markers, filename: assets/KR6c0075_000-X.markers.yaml, hash: 'sha256:b33d3495e9b3aaf253cef262b0f2c1933fefa5a7b82ee68263fc5e6b6f982957'}
   - {seq: 1, role: markers, filename: assets/KR6c0075_001-X.markers.yaml, hash: 'sha256:2abd56a09d3c0ec6ab684c73939c2dce587696b2a11e66750b84ca10452abca1'}
   - {seq: 2, role: markers, filename: assets/KR6c0075_002-X.markers.yaml, hash: 'sha256:9dbdf095edcb805bf9b8e2cb155af29ea0fdb436da820a0e74a473479bc279d1'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 金剛般若經偈會本敘
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-2
     span:
-    - front
+    - body
     - 394
     - 394
   label: No. 487-1 金剛般若經偈會本
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-3
     span:
-    - front
+    - body
     - 7143
     - 7143
   label: No. 487-2 金剛新眼疏經偈合釋通敘大意
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-4
     span:
-    - front
+    - body
     - 11214
     - 11214
   label: No. 487-3 金剛新眼疏經偈合釋懸示
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-5
     span:
-    - front
+    - body
     - 11241
     - 11241
   label: 前文
@@ -81,7 +81,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-6
     span:
-    - front
+    - body
     - 11338
     - 11338
   label: 一翻譯前後
@@ -91,7 +91,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-7
     span:
-    - front
+    - body
     - 11380
     - 11380
   label: 一姚秦鳩摩羅什譯
@@ -101,7 +101,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-8
     span:
-    - front
+    - body
     - 12206
     - 12206
   label: 二元魏菩提留支譯
@@ -111,7 +111,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-9
     span:
-    - front
+    - body
     - 12866
     - 12866
   label: 三陳朝真諦譯
@@ -121,7 +121,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-10
     span:
-    - front
+    - body
     - 13586
     - 13586
   label: 四隋朝笈多譯
@@ -131,7 +131,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-11
     span:
-    - front
+    - body
     - 14094
     - 14094
   label: 五唐玄奘法師譯
@@ -141,7 +141,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-12
     span:
-    - front
+    - body
     - 14801
     - 14801
   label: 六唐義淨法師譯
@@ -151,7 +151,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-13
     span:
-    - front
+    - body
     - 15399
     - 15399
   label: 二宣說時處
@@ -161,7 +161,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-14
     span:
-    - front
+    - body
     - 15435
     - 15435
   label: 第一日出先照時
@@ -171,7 +171,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-15
     span:
-    - front
+    - body
     - 15499
     - 15499
   label: 第二日昇轉照時
@@ -181,7 +181,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-16
     span:
-    - front
+    - body
     - 15752
     - 15752
   label: 第三日沒還照時
@@ -191,7 +191,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-17
     span:
-    - front
+    - body
     - 15991
     - 15991
   label: 三教乘攝屬
@@ -201,7 +201,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-18
     span:
-    - front
+    - body
     - 17054
     - 17054
   label: 四因緣所為
@@ -211,7 +211,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0075_X_000-mulu-19
     span:
-    - front
+    - body
     - 18823
     - 18823
   label: 五受持感通
@@ -297,4 +297,4 @@ table_of_contents:
   label: 三流通分
   type: mulu
   level: 1
-hash: sha256:4a0656dbe65a6fcc4fc229468a2e2cd7fe07c65e4402283dbe1f47dc9271e081
+hash: sha256:51d8fe834c961afad8cc0649e4c1892f4f28631d0b18059ef647ccd8cdcfb297
